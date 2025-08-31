@@ -85,7 +85,7 @@ Example Recommendation for **Avatar**:
 * John Carter
 * Star Wars: Revenge of the Sith
 
-(With posters displayed in the app)
+
 
 ---
 
@@ -133,5 +133,4 @@ url = f"https://api.themoviedb.org/3/movie/{movie_id}?api_key=YOUR_API_KEY&langu
 * 🔗 [GitHub](https://github.com/Kunalchandra007)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/kunal-chandra007)
 * 🌐 [Portfolio](https://my-portfolio-zeta-ruby-26.vercel.app/)
-
 ---
